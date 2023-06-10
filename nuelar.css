@@ -555,7 +555,7 @@ h2{
   grid-template-columns: 1fr 1fr 1fr 1fr;
   justify-content: center;
   align-items: center;
-  gap: 1rem;
+  gap: 0.3rem;
 }
 
 .Partners div{
@@ -664,7 +664,6 @@ footer{
 	  background-color: #00171f;
 		color: white;
     width: 100%;
-	margin-top: 2rem;
 }
 
 @media screen and (min-width: 768px) {
