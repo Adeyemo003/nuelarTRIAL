@@ -548,14 +548,14 @@ h2{
 }
 
 .Partners{
-  width: 90%;
+  width: 100%;
   margin-top: 2rem;
   margin-bottom: 2rem;
   display:grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   justify-content: center;
   align-items: center;
-  gap: 0.3rem;
+  padding: 1rem;
 }
 
 .Partners div{
